@@ -1,0 +1,6 @@
+---- _POSIX_CHOWN_RESTRICTED Matches (1 in 1 files) ----
+Unistd.h (include):#define _POSIX_CHOWN_RESTRICTED	/* only root can do a chown (I think..) */
+---- _POSIX_CHOWN_RESTRICTED Search Errors Encountered (2) ----
+The following 2 files could not be processed:
+E:\linux-0.11\si\linux0.11.IAB : File could not be opened.
+E:\linux-0.11\si\linux0.11.IMB : File could not be opened.
